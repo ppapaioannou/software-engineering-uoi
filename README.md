@@ -5,5 +5,5 @@ A simple text editor with Text-To-Speech capabilities developed for the Software
 Study and implement trusted software development techniques while following the Open for extension closed to modification Principle
 
 ## Language
-Java 11
+Java 11</br>
 Testing done using the JUnit5 testing framework
