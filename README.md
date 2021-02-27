@@ -6,3 +6,4 @@ Study and implement trusted software development techniques while following the 
 
 ## Language
 Java 11
+Testing done using the JUnit5 testing framework
